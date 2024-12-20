@@ -1,0 +1,16 @@
+{
+    "workers": [
+      {
+        "id": "ID1",
+        "image": "IMG_6066_2.jpg"
+      },
+      {
+        "id": "ID2",
+        "image": "IMG_6067_2.jpg"
+      },
+      {
+        "id": "ID3",
+        "image": "IMG_6067_2.jpg"
+      }
+    ]
+  }
